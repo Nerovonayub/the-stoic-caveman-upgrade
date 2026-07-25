@@ -1,5 +1,7 @@
 # The Stoic Caveman Upgrade
 
+![The Stoic Caveman Upgrade](.github/social-preview.jpg)
+
 **A Claude Code skill that cuts output-token filler — and never cuts the "why."**
 
 For anyone running Claude Code who wants shorter replies without losing the plain-language
