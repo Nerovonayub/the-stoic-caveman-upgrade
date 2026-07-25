@@ -33,6 +33,10 @@ content:
 - **ultra** — also collapses multi-clause sentences into one fact per line, drops connective
   words when order alone still carries the causal link.
 
+Measured (approximate, not a real Claude API count — see `benchmarks/results.md` for full
+methodology and caveats): **54.6% / 65.6% / 81.4%** output-token reduction at lite/full/ultra
+across 5 representative cases.
+
 ## AutoMode
 
 Explicit-invocation is the default. An opt-in **AutoMode** (`automode on` / `automode off`) lets
