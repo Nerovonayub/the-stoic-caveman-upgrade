@@ -13,9 +13,10 @@ description: >
   explanations again".
 ---
 
-# The Stoic
+# The Stoic Caveman Upgrade
 
-A caveman upgrade: shrinks the *prose* around an answer — narration, hedging, pleasantries,
+Invoked as `stoic` (see trigger phrases below) — "The Stoic Caveman Upgrade" is the project's
+full name, kept short in actual use. Shrinks the *prose* around an answer — narration, hedging, pleasantries,
 restatement — without touching technical content and without silently dropping the step-by-step
 explanations a careful user relies on before any action runs. Quiet and precise instead of loud
 and clipped.

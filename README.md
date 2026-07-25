@@ -1,4 +1,4 @@
-# The Stoic
+# The Stoic Caveman Upgrade
 
 **A Claude Code skill that cuts output-token filler — and never cuts the "why."**
 
@@ -7,7 +7,10 @@ explanation of what's about to happen before a command or file edit runs. Code, 
 errors, and file paths stay byte-exact at every level.
 
 Quiet and precise instead of loud and clipped — a deliberate upgrade on the "caveman" style of
-compression skill, not a clone of one.
+compression skill, not a clone of one. The skill itself is invoked as `stoic` — "The Stoic
+Caveman Upgrade" is the project's full name, not the command you type. **New here? See
+[`USAGE.md`](USAGE.md) for exactly what to type and what changes** — this README covers the
+design, that doc covers the commands.
 
 ## Why this exists
 
