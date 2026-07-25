@@ -1,9 +1,10 @@
 # The Stoic
 
-A token-compression skill for Claude Code (and compatible agent tools): cuts filler, hedging,
-and narration from chat replies to shrink output tokens — while keeping code, commands, errors,
-and file paths byte-exact, and keeping the plain-language explanation of *what's about to
-happen* before any real action runs.
+**A Claude Code skill that cuts output-token filler — and never cuts the "why."**
+
+For anyone running Claude Code who wants shorter replies without losing the plain-language
+explanation of what's about to happen before a command or file edit runs. Code, commands,
+errors, and file paths stay byte-exact at every level.
 
 Quiet and precise instead of loud and clipped — a deliberate upgrade on the "caveman" style of
 compression skill, not a clone of one.
